@@ -1,0 +1,7 @@
+
+ Customer ID 2
+ Nameumesh
+Age22
+GenderM
+Mobile Number:0
+Address:jklam
